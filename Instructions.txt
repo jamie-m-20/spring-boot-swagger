@@ -1,0 +1,9 @@
+This project was copied from here and cloned to my repo on GitHub
+
+https://github.com/jamie-m-20/spring-boot-swagger
+
+There was an initial error in the original code as getters were not set 
+in Student.
+
+Right Click: SpringbootSwaggerApplication.java and run as Spring Application.
+
