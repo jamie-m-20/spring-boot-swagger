@@ -79,6 +79,8 @@
 			<artifactId>jfairy</artifactId>
 			<version>0.3.0</version>
 		</dependency>
+		
+		<!-- Dependency to serialize JSON files -->
 
 	</dependencies>
 

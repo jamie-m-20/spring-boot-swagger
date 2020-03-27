@@ -1,0 +1,38 @@
+[
+	{
+		"organization": {
+			"securityLabel": "U",
+			"shortCode": "DND",
+			"fullName": "Department of National Defence",
+			"countryAffliation": "CAN",
+			"affliationType": "GOV"
+		}
+	},
+	{
+		"organization": {
+			"securityLabel": "U",
+			"shortCode": "GAC",
+			"fullName": "Global Affairs Canada",
+			"countryAffliation":"CAN",
+			"affliationType": "GOV"
+		}
+	},
+	{
+		"organization": {
+			"securityLabel": "U",
+			"shortCode": "DHS",
+			"fullName": "Department of Homeland Security",
+			"countryAffliation": "USA",
+			"affliationType": "GOV"
+		}
+	},
+	{
+		"organization": {
+			"securityLabel": "U",
+			"shortCode": "NHS",
+			"fullName": "National Health Service",
+			"countryAffliation": "GBR",
+			"affliationType": "GOV"
+		}
+	}
+]

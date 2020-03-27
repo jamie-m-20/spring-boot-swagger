@@ -1,0 +1,34 @@
+[
+	{
+		"country": {
+			"securityLabel": "U",
+			"digraph": "CA",
+			"trigraph" : "CAN",
+			"longName" : "Canada"
+		}
+	},
+	{
+		"country": {
+			"securityLabel": "U",
+			"digraph": "US",
+			"trigraph" : "USA",
+			"longName" : "United States"
+		}
+	},
+	{
+		"country": {
+			"securityLabel": "U",
+			"digraph": "NZ",
+			"trigraph" : "NZL",
+			"longName" : "New Zealand"
+		}
+	},
+	{
+		"country" : {
+			"securityLabel": "U",
+			"digraph": "GB",
+			"trigraph" : "GBR",
+			"longName" : "Great Britain"
+		}
+	}
+]
